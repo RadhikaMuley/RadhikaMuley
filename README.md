@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RadhikaMuley
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning HTML,CSS,JavaScript & Kannada 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML,CSS intermediate Level & Kannada- Beginner's level
+<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me muleyradhika01@gmail.com
 
 <!---
